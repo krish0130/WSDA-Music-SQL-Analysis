@@ -3,6 +3,8 @@ SQL analysis of a music company's financial data to investigate a discrepancy an
 
 # WSDA Music Financial Discrepancy Analysis
 
+<img width="1254" height="1254" alt="1370c3a2-9993-4f00-92ac-c1abbcb39f92" src="https://github.com/user-attachments/assets/683e11a0-b327-4509-ac62-51b26c47437f" />
+
 ## Project Overview
 Investigated a financial discrepancy at WSDA Music 
 between 2011 and 2012 using SQL. Analysed transactional 
