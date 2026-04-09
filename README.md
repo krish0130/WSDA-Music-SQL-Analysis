@@ -3,22 +3,22 @@ SQL analysis of a music company's financial data to investigate a discrepancy an
 
 # WSDA Music Financial Discrepancy Analysis
 
-## 📌 Project Overview
+## Project Overview
 Investigated a financial discrepancy at WSDA Music 
 between 2011 and 2012 using SQL. Analysed transactional 
 data across multiple tables to identify suspicious 
 patterns and pinpoint the primary suspect.
 
-## 🛠️ Tools Used
+## Tools Used
 - SQL (SQLite)
 - DB Browser for SQLite
 
-## 📂 Database Tables Analysed
+## Database Tables Analysed
 - Customers
 - Employees
 - Invoices
 
-## 🔍 What I Did
+## What I Did
 - Queried total transactions and revenue between 2011–2012
 - Identified customers who made purchases during 
   the discrepancy period
@@ -32,6 +32,6 @@ patterns and pinpoint the primary suspect.
 - Pinpointed the primary suspect through 
   data-driven reasoning
 
-## 📊 Skills Demonstrated
+## Skills Demonstrated
 SQL | JOINs | Subqueries | Aggregate Functions | 
 Data Analysis | Business Investigation
